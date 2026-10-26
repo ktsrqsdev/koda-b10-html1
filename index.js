@@ -8,8 +8,8 @@
 <body>
     <h1>What is AI?</h1>
     <p>
-       Artificial intelligence (AI) is technology that enables computers and machines to simulate learning, 
-       comprehension, problem solving, decision making, creativity and autonomy.
+       <b><font size="6px">A</font>rtificial intelligence (AI)</b> is technology that enables computers and machines to <mark><i> simulate learning, 
+       comprehension, problem solving, decision making, creativity and autonomy</i></mark>.
     </p>
     <p>
         Applications and devices equipped with AI can see and identify objects. They can understand and respond to human language.
@@ -17,9 +17,9 @@
         They can act independently, replacing the need for human intelligence or intervention (a classic example being a self-driving car).
     </p>
     <p>
-        But in 2024, most AI researchers, practitioners and most AI-related headlines are focused on breakthroughs in generative AI (gen AI), 
+        But in <b>2024</b>, most AI researchers, practitioners and most AI-related headlines are focused on breakthroughs in generative AI (gen AI), 
         a technology that can create original text, images, video and other content. To fully understand generative AI, it’s important to first 
-        understand the technologies on which generative AI tools are built: learning (ML) and deep learning.
+        understand the technologies on which generative AI tools are built: <b>learning (ML)</b> and <b>deep learning</b>.
     </p>
 </body>
 </html>
